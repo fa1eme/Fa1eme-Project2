@@ -1,5 +1,4 @@
-# Fa1eme_project2
-PersianQuestionAnsweringProject
+# PersianQuestionAnsweringProject
 
 This project is a Persian Question Answering (QA) system designed to provide accurate answers to user queries.  
 It utilizes the **PersianQA** dataset to evaluate different approaches and assess their accuracy, processing time, and generalization capabilities.  
